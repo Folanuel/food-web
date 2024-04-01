@@ -6,7 +6,7 @@ import Jollof from '../assets/jollof-rice-and-chicken-upscaled.jpg'
 
 const Meals = () => {
     return (
-        <div className="w-full h-full bg-white pl-24 pb-4 mt-[80px] grid grid-cols-1 gap-6 md:grid-cols-3">
+        <div className="w-full h-full bg-white pl-16 pb-4 mt-[80px] grid grid-cols-1 gap-6 md:grid-cols-3">
             <Card
                 imageUrl={Jollof}
                 title="Daily Meals"

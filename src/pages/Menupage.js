@@ -6,7 +6,7 @@ const Menupage = () => {
     return (
         <div className="w-full h-full pl-14 pt-[120px] bg-white ">
             <h1 className='text-center font-bold mb-16 text-2xl'>Our menu</h1>            
-            <div className='pl-24 grid grid-cols-1 md:grid-cols-3 md:space-x-3'>
+            <div className='pl-16 grid grid-cols-1 md:grid-cols-3 md:space-x-3'>
                 
                 <Menucard 
                     imageUrl={Jollof}

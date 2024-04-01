@@ -42,9 +42,9 @@ const Navbar = () => {
             {isMobileMenuOpen && (
                 <div className="md:hidden absolute top-16 right-4 bg-white border border-gray-300 shadow-lg rounded-md">
                     <ul className="py-2">
-                        <li><a href="#" className="block px-4 py-2 text-xl text-black hover:text-red-600">Menu</a></li>
-                        <li><a href="#" className="block px-4 py-2 text-xl text-black hover:text-red-600">FAQs</a></li>
-                        <li><a href="#" className="block px-4 py-2 text-xl text-black hover:text-red-600">About</a></li>
+                        <li><Link to="/menu" className="block px-4 py-2 text-xl text-black hover:text-red-600">Menu</Link></li>
+                        <li><Link to="/faqs" className="block px-4 py-2 text-xl text-black hover:text-red-600">FAQs</Link></li>
+                        <li><Link to="/vision" className="block px-4 py-2 text-xl text-black hover:text-red-600">About</Link></li>
                     </ul>
                 </div>
             )}
