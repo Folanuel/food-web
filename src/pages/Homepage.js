@@ -3,14 +3,15 @@ import Navbar from '../components/Navbar'
 import Main from '../components/Main'
 import Meals from '../components/Meals';
 import Testimonial from '../components/Testimonial';
-import Footer from '../components/Footer';
+
+// import FormComponent from '../components/Form';
 
 const Homepage = () => {
     return (
         <div className=''>            
             <Main />
             <Meals />
-            <Testimonial />            
+            <Testimonial />                        
         </div>
     )
 }
