@@ -18,45 +18,44 @@ const Menupage = () => {
                 
                 <Menucard 
                     imageUrl={Food6}
-                    title="Jollof Rice"
+                    title="Plantain & Eggs"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
                 <Menucard 
                     imageUrl={Food}
-                    title="Jollof Rice"
+                    title="Pepper Soup"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
                 <Menucard 
                     imageUrl={Food1}
                     title="Jollof Rice"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
-                />
-                <Menucard 
-                    imageUrl={Food2}
-                    title="Jollof Rice"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
-                />
+                />                
                 <Menucard 
                     imageUrl={Food3}
-                    title="Jollof Rice"
+                    title="Stirfry Pasta"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
                 <Menucard 
                     imageUrl={Food4}
-                    title="Jollof Rice"
+                    title="Swallow & soup"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
                 <Menucard 
                     imageUrl={Food5}
-                    title="Jollof Rice"
+                    title="Rice and Stew"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
                 <Menucard 
                     imageUrl={Food7}
-                    title="Jollof Rice"
+                    title="Bole & Fish"
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
                 />
-                
+                <Menucard 
+                    imageUrl={Food2}
+                    title="Mixture"
+                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                />                
             </div>
         </div>
     )

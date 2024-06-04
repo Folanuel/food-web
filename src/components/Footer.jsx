@@ -20,7 +20,7 @@ const Footer = () => {
                 <img src={Ig} alt='instagram' className='' />
                 <img src={X} alt='twitter' className='' />
                 <img src={Meta} alt='facebook' className='' />
-                <img src={In} alt='linkedin' className='' />
+                
                 </div>
             </div>
             <div className='py-5 md:py-0 md:flex md:flex-row md:space-x-20 '>
