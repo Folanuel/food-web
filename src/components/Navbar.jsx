@@ -30,7 +30,7 @@ const Navbar = () => {
         </div>
         {/* Contact on the right */}
         <div>
-            <a href="#" className="hidden mr-14 md:block text-lg bg-red-600 text-white text-center rounded-2xl py-2 px-4 hover:bg-white hover:text-red-600">Contact</a>
+            <Link to="https://wa.me/08137392618?text=I%20want%20to%20order%20food" className="hidden mr-14 md:block text-lg bg-red-600 text-white text-center rounded-2xl py-2 px-4 hover:bg-white hover:text-red-600">Order</Link>
         </div>
         {/* Hamburger Menu Icon - Display on Mobile */}
             <div className="md:hidden">

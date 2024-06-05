@@ -19,42 +19,42 @@ const Menupage = () => {
                 <Menucard 
                     imageUrl={Food6}
                     title="Plantain & Eggs"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="A delicious combination of ripe plantains and scrambled eggs, perfect for breakfast or brunch."
                 />
                 <Menucard 
                     imageUrl={Food}
                     title="Pepper Soup"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Spicy and flavorful soup made with fresh ingredients and a variety of spices."
                 />
                 <Menucard 
                     imageUrl={Food1}
                     title="Jollof Rice"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Classic West African dish made with rice, tomatoes, and a blend of spices."
                 />                
                 <Menucard 
                     imageUrl={Food3}
                     title="Stirfry Pasta"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Pasta stir-fried with vegetables and a savory sauce."
                 />
                 <Menucard 
                     imageUrl={Food4}
                     title="Swallow & soup"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Traditional dish with a choice of swallow (fufu, pounded yam) and a rich, flavorful soup."
                 />
                 <Menucard 
                     imageUrl={Food5}
                     title="Rice and Stew"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Steamed rice served with a hearty stew made from tomatoes, onions, and various spices."
                 />
                 <Menucard 
                     imageUrl={Food7}
                     title="Bole & Fish"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="Grilled plantains served with roasted fish."
                 />
                 <Menucard 
                     imageUrl={Food2}
                     title="Mixture"
-                    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lectus nec ligula consectetur aliquet."
+                    description="A delightful mix of various ingredients to tantalize your taste buds."
                 />                
             </div>
         </div>
